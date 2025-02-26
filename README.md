@@ -2,7 +2,7 @@
 
 SurpriseAgent is a simple yet powerful tool that retrieves information from Wikipedia and saves it into a `.txt` file.
 
-
+![SurpriseAgent img1](img/1.png)
 
 ## 🚀 Installation and Usage
 
@@ -73,14 +73,16 @@ pip install -r requirements.txt
 **Windows:**
 
 ```sh
-py index.py
+py SurpriseAgent.py
 ```
 
 **Linux/macOS:**
 
 ```sh
-python3 index.py
+python3 SurpriseAgent.py
 ```
+
+![SurpriseAgent img2](img/2.png)
 
 ## 💡 Why Use a Virtual Environment?
 
@@ -94,8 +96,5 @@ python3 index.py
 
 Feel free to fork this repository, create a feature branch, and submit a pull request! 🚀
 
+![SurpriseAgent img3](img/3.png)
 
-
-![SurpriseAgent img1](img/1.png)
-![SurpriseAgent img1](img/2.png)
-![SurpriseAgent img1](img/3.png)
